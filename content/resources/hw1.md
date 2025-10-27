@@ -5,8 +5,6 @@ description: This resource includes questions based on proper colorings, and acu
 file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/42bfcdfd46fd212af596f9ce38d1e80f_hw1.pdf
 file_size: 100372
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

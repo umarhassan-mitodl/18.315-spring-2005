@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/b840de5c482c4f34bd9fd2d156170762_lec28.pdf
 file_size: 215708
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

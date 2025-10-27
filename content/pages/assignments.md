@@ -2,8 +2,6 @@
 content_type: page
 description: The assignment section includes the assignment notes due in the respective
   lectures.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

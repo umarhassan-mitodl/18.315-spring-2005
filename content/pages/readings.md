@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the readings for the topics covered
   in this course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -23,7 +21,7 @@ Jukna, S. _Extremal Combinatorics._ New York, NY: Springer-Verlag, Berlin, 2000.
 
 The following textbooks can be used as supplemental reading:
 
-Diestel, R. _Graph Theory (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 1997. ISBN: 3540261834. (Available electronically on the [Graph Theory](http://www.math.uni-hamburg.de/home/diestel/books/graph.theory/) Web site by R. Diestel).
+Diestel, R. _Graph Theory (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 1997. ISBN: 3540261834. (Available electronically on the {{% resource_link "3d6366f5-c92c-4b6b-8797-894446a23eba" "Graph Theory" %}} Web site by R. Diestel).
 
 Matousek, J. _Lectures on Discrete Geometry (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 2002. ISBN: 0387953736.
 
@@ -277,7 +275,7 @@ Reidemeister Moves
 {{< tdopen >}}
 Bollobás, B. _Modern Graph Theory (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 1998, pp. 358-363. ISBN: 0387984917.  
   
-Korn, M., and I. Pak. _Combinatorial evaluations of the Tutte polynomial._ Preprint (2003) available at [Research (Igor Pak Home Page)](https://www.math.ucla.edu/~pak/papers/tutte7mono.pdf). (Paper)
+Korn, M., and I. Pak. _Combinatorial evaluations of the Tutte polynomial._ Preprint (2003) available at {{% resource_link "395edc8c-535b-46a2-9424-c8fb4d07f4c4" "Research (Igor Pak Home Page)" %}}. (Paper)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -365,7 +363,7 @@ Tutte's Counter Example
 Length of the Longest Path in a Planar Graph
 {{< tdclose >}}
 {{< tdopen >}}
-Diestel, R. _Graph Theory (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 1997, section 10.1. ISBN 3540261834. (Available electronically on the [Graph Theory](http://www.math.uni-hamburg.de/home/diestel/books/graph.theory/) Web site by R. Diestel).
+Diestel, R. _Graph Theory (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 1997, section 10.1. ISBN 3540261834. (Available electronically on the {{% resource_link "3d6366f5-c92c-4b6b-8797-894446a23eba" "Graph Theory" %}} Web site by R. Diestel).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -409,7 +407,7 @@ Examples of Hamiltonian Cycles in Cayley Graphs of S{{< sub "n" >}}
 Hamiltonian Cayley Graphs of General Groups
 {{< tdclose >}}
 {{< tdopen >}}
-Pak, I., and R. Radoicic. "Hamiltonian paths in Cayley graphs." Preprint (2002) available at [Research (Igor Pak Home Page)](http://www.math.ucla.edu/~pak/). (Paper)
+Pak, I., and R. Radoicic. "Hamiltonian paths in Cayley graphs." Preprint (2002) available at {{% resource_link "1389c5a5-8858-40c6-a6cf-ddb73f5a5b1f" "Research (Igor Pak Home Page)" %}}. (Paper)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -423,7 +421,7 @@ Menger Theorem
 Gallai-Milgram Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-Diestel, R. _Graph Theory (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 1997, sections 2.5, and 3.3. ISBN 3540261834. (Available electronically on the [Graph Theory](http://www.math.uni-hamburg.de/home/diestel/books/graph.theory/) Web site by R. Diestel).
+Diestel, R. _Graph Theory (Graduate Texts in Mathematics)._ New York, NY: Springer-Verlag, 1997, sections 2.5, and 3.3. ISBN 3540261834. (Available electronically on the {{% resource_link "3d6366f5-c92c-4b6b-8797-894446a23eba" "Graph Theory" %}} Web site by R. Diestel).
 {{< tdclose >}}
 
 {{< trclose >}}

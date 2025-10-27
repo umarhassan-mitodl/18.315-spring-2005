@@ -5,8 +5,6 @@ description: This resource includes questions based on r-partite graph, and span
 file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/a4c77c80516f3604993d3a3864cc8766_hw4.pdf
 file_size: 42432
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

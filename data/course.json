@@ -30,7 +30,6 @@
     "website": "18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005"
   },
   "course_title": "Combinatorial Theory: Introduction to Graph Theory, Extremal and Enumerative Combinatorics",
-  "hide_download": true,
   "course_description": "This course serves as an introduction to major topics of modern enumerative and algebraic combinatorics with emphasis on partition identities, young tableaux bijections, spanning trees in graphs, and random generation of combinatorial objects. There is some discussion of various applications and connections to other fields.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "8dc593e7-da26-529c-9e84-a3dae7b1e045",
     "website": "18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

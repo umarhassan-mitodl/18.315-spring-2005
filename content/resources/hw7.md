@@ -5,8 +5,6 @@ description: This resource includes questions based on simple graphs, billiard t
 file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/9c8730ce1c29573546fe74c94b4797a5_hw7.pdf
 file_size: 43441
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

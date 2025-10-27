@@ -5,8 +5,6 @@ description: This resource includes questions based on Helly's theorem, claw cov
 file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/67584e643d854d480014f00f7d91b44c_hw2.pdf
 file_size: 61795
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
